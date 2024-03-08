@@ -3,7 +3,7 @@ version: 0.2
 
 env:
   variables:
-    CONTAINER_NAME: sdlc-automation
+    CONTAINER_NAME: app-devv
 
 phases:
   install:
